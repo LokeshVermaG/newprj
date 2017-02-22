@@ -4,7 +4,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.tig</groupId>
 	<artifactId>newprj</artifactId>
-	<version>1.0.8-SNAPSHOT</version>
+	<version>1.0.8</version>
 	<packaging>mule</packaging>
 	<name>Mule newprj Application</name>
 
@@ -20,7 +20,7 @@
 		<url>https://github.com/LokeshVermaG/newprj</url>
 		<developerConnection>scm:git:https://github.com/LokeshVermaG/newprj</developerConnection>
 		<connection>scm:git:https://github.com/LokeshVermaG/newprj</connection>
-		<tag>HEAD</tag>
+		<tag>v1.0.8</tag>
 	</scm>
 
 	<build>
