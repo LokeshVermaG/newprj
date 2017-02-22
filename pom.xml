@@ -75,10 +75,10 @@
 								<artifactItem>
 									<groupId>com.tig</groupId>
 									<artifactId>newprj</artifactId>
-									<version>1.1.27</version>
+									<version>1.1.28</version>
 									<type>zip</type>
 									<overWrite>false</overWrite>
-									<outputDirectory>${env.MULE_HOME}</outputDirectory>									
+									<outputDirectory>${env.MULE_APPS_PATH}</outputDirectory>									
 								</artifactItem>
 							</artifactItems>
 							<overWriteReleases>false</overWriteReleases>
