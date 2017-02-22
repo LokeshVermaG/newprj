@@ -4,7 +4,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.tig</groupId>
 	<artifactId>newprj</artifactId>
-	<version>1.0.20-SNAPSHOT</version>
+	<version>1.1.21-SNAPSHOT</version>
 	<packaging>mule</packaging>
 	<name>Mule newprj Application</name>
 
@@ -243,3 +243,4 @@
 	</pluginRepositories>
 
 </project>
+
