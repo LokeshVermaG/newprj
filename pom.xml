@@ -75,7 +75,7 @@
 								<artifactItem>
 									<groupId>com.tig</groupId>
 									<artifactId>newprj</artifactId>
-									<version>1.0.13</version>
+									<version>1.0.14</version>
 									<type>zip</type>
 									<overWrite>false</overWrite>
 									<outputDirectory>C:/MULE_ESB/Softwares_Downloaded/mule-enterprise-standalone-3.8.0/apps</outputDirectory>									
