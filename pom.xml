@@ -59,7 +59,7 @@
 					<copyToAppsDirectory>false</copyToAppsDirectory>
 				</configuration>
 			</plugin>
-			<plugin>
+			<!-- <plugin>
 				<groupId>org.apache.maven.plugins</groupId>
 				<artifactId>maven-dependency-plugin</artifactId>
 				<version>2.10</version>
@@ -75,9 +75,10 @@
 								<artifactItem>
 									<groupId>com.tig</groupId>
 									<artifactId>newprj</artifactId>
-									<version>1.0.9</version>
+									<version>1.0.8</version>
 									<type>zip</type>
-									<overWrite>false</overWrite>																		
+									<overWrite>false</overWrite>
+									<outputDirectory>C:/MULE_ESB/Softwares_Downloaded/mule-enterprise-standalone-3.8.0/apps</outputDirectory>									
 								</artifactItem>
 							</artifactItems>
 							<overWriteReleases>false</overWriteReleases>
@@ -85,7 +86,7 @@
 						</configuration>
 					</execution>
 				</executions>
-			</plugin>
+			</plugin> -->
 			<plugin>
 				<groupId>org.apache.maven.plugins</groupId>
 				<artifactId>maven-deploy-plugin</artifactId>
