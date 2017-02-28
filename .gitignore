@@ -1,4 +1,4 @@
-# ------------------------------------------------------------------------------ #
+## ------------------------------------------------------------------------------ #
 # Java defaults (https://github.com/github/gitignore/blob/master/Java.gitignore) #
 # ------------------------------------------------------------------------------ #
 *.class
@@ -24,8 +24,8 @@ local.properties
 .settings/
 .loadpath
 # Recommended for Maven based projects 
-.project
-.classpath
+#.project
+#.classpath
 
 # External tool builders
 .externalToolBuilders/
